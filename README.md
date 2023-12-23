@@ -39,7 +39,11 @@ Focuses on UUID version 4, which is a type commonly used in various applications
 ## Some Example UUIDs Generated
 
 078107d3-e61b-4e33-95b2-7b37b8868c89
+
 a5585135-bf72-4745-872e-1d60c6daab61
+
 dff2902d-4991-4888-b294-d74d33e3c59e
+
 bc68018c-52e4-4526-8a1b-7b4689a19bb0
+
 44f9f8e6-384f-46ac-87ad-d0d54ab21cb1
